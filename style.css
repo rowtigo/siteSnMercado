@@ -1,0 +1,30 @@
+.corpo {
+    margin-top: 40px;
+}
+
+.logo {
+    width: 400px;
+    height: 400px;
+}
+
+
+.social-card {
+    padding: 7px;
+}
+
+.social-brand {
+    max-width:300px;
+    max-height:230px;
+    width: auto;
+    height: auto;
+}
+
+.social-card:hover .social-brand{
+    zoom: 1.1;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.4);
+}
+
+.mapa {
+    width: 300px;
+    height: 300px;
+}
